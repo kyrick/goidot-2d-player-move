@@ -6,7 +6,7 @@ Controls are mapped to WSAD and Gamepad left joystick.
 
 This example uses a basic setup with a KinematicBody2D with a CollisionShape2D. 
 
-# Run
+# Play the Demo
 
 Simply press F5 on the keyboard or the play button in the upper right hand corner of the Godot Editor.
 
